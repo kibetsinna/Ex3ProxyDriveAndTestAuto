@@ -47,7 +47,7 @@
     <Compile Include="DestCoordinateWaze.cs" />
     <Compile Include="InfoProxy.cs" />
     <Compile Include="IInformationFunc.cs" />
-    <Compile Include="Interface1.cs" />
+    <Compile Include="IDriveFunction.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
